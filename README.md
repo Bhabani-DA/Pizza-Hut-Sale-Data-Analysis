@@ -4,10 +4,10 @@
 The objective of this Pizza Hut Sales Analysis project is to examine pizza sales trends using SQL queries to derive meaningful business insights. The analysis focuses on determining total order volume, revenue generation, and identifying top-selling pizzas by size, type, and category. Additionally, it explores sales distribution over time, calculates cumulative revenue, and ranks the most profitable pizza types. The project aims to optimize menu offerings, pricing strategies, and operational efficiency to enhance customer satisfaction and business profitability.
 
 ## Dataset Used:
-•	order_details  
-•	orders  
-•	pizza_types  
-•	pizzas  
+•	[order_details](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis/blob/main/order_details.csv)  
+•	[orders](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis/blob/main/orders.csv)  
+•	[pizza_types](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis/blob/main/pizza_types.csv)  
+•	[pizzas](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis/blob/main/pizzas.csv)  
 
 ## Question (KPI’s):
 •	Retrieve the total number of orders placed.  
@@ -32,6 +32,9 @@ Here’s a step-by-step breakdown of the project process:
 •	Exploratory Data Analysis (EDA) – Run initial SQL queries to get an overview of total orders, revenue, and popular pizza types.  
 •	SQL Query Development – Create complex SQL queries for revenue calculations, ranking top pizzas, and determining cumulative trends.  
 •	Performance Optimization – Improve query execution with joins and aggregations for efficiency.  
+
+## SQL Queries:
+Please find the [SQL Queries](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis/blob/main/SQL%20Queries.docx) and their output.
 
 ## Project Insights:
 This project provides valuable insights into pizza sales trends by leveraging SQL queries for data analysis. Here are some key findings:  
